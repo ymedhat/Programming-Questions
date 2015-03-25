@@ -64,14 +64,3 @@ class Building(Elevator):
 				elvtr_flag = False
 				break
 		return elvtr_flag
-
-
-
-
-
-
-
-
-
-
-
